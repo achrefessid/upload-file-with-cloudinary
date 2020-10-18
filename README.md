@@ -5,7 +5,7 @@ Which could be AWS S3, or Cloudinary and so on...
 
 +Use Cloudinary to save the file in Node JS :
 
--What is good of using Cloudinary instead of just saving the filecin Node server : 
+-What is good of using Cloudinary instead of just saving the file in Node server : 
 In PHP or JAVA Okay to save files there But Not in Node JS Better to use 3rd party library.
 
 1.Sign Up or login in Cloudinary :
